@@ -5,6 +5,7 @@
 1. [Cire Mijares] (https://github.com/CireMijares)
 2. [Ebcay, Aahron Mhael E.] (https://github.com/Aahron)
 3. [Nicole Sai Sopie Gabutan] (https://github.com/sOpi)
+
 ### Milestone 1 (Nov Week 1)
 
 - **What we'll do:**
